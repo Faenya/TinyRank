@@ -28,6 +28,6 @@ The results are located in the PigResults folder.
 
 Once the input file has been obtained, the Scala script can be run through Spark using the following commands while being located at the root of the project :
 
-Run `spark-shell` then once in, run `load: Pagerank.scala`
+Run `spark-shell` then once in, run `:load Pagerank.scala`
 
 The results are located in the SparkOutput folder.
